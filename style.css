@@ -30,3 +30,15 @@ body {
     border: none;
     color: #e9fff9;
 }
+
+.incremento {
+    background-color: #d64045;
+}
+
+.decremento {
+    background-color: #1d3354;
+}
+
+.reset {
+    background-color: #9ed8db;
+}
